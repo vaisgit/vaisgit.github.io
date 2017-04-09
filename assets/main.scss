@@ -113,7 +113,7 @@ footer {
 /*** media queries ***/
 /* X-Small devices (phones, 480px and up) */
 
-@media (min-width: 480px) {
+@media (min-width: 100px) {
 	/* wrapper stays 480px wide past 480px wide and is kept centered */
 	.wrapper {
 		width: 480px;
