@@ -10,7 +10,7 @@ This is a Jekyll theme designed with something very specific in mind: to be a si
 
 1. Start by [installing Bundler](http://bundler.io) `gem install bundler`
 
-2. Fork the Compass repository
+2. Fork this repository
 
 3. Clone the repository you just forked
 
