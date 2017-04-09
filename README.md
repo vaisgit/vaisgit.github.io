@@ -1,6 +1,6 @@
 # Link
 
-vaigit.github.io/jekyllpersonal/
+vaigit.github.io/
 
 # Documentation
 
